@@ -16,6 +16,6 @@ myfun("Lester")
 myfun("Linda")
 
 def myfun2 (fname, lname): # Multiple Arrgument
-    print(fname + "" + lname)
+    print(fname + " " + lname)
 
 myfun2("Manjeet", "Saini")    
